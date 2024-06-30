@@ -1,0 +1,31 @@
+body {
+    background-color: #f2f2f2;
+}
+
+.logo {
+    margin: 0 auto;
+}
+
+header {
+    text-align: center;
+}
+
+.banner {
+    background-color: rgb(244, 244, 151);
+    border-top: 3px solid #e79a01;
+    padding: 10px;
+    text-align: center;
+}
+
+.content {
+    margin: 0 auto;
+    max-width: 800px;
+}
+
+.content img {
+    width: 100%;
+}
+
+.title {
+    text-align: center;
+}
